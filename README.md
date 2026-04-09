@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hola 👋
 
-<!--
-**AxelQuiroga/AxelQuiroga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Backend Developer Junior enfocado en construir bases sólidas y seguir creciendo día a día.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías
+- Node.js
+- Express
+- JavaScript
+- TypeScript
+- PostgreSQL
+- MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Conocimientos
+- Desarrollo de APIs REST
+- Manejo básico de bases de datos relacionales y no relacionales
+- Estructura de backend (routes, controllers, services, etc.)
+
+## 📚 Actualmente
+- Aprendiendo Java en la facultad
+- Mejorando mis bases en backend y bases de datos
+- Explorando buenas prácticas y arquitectura
+
+## 🌱 Extra
+También tengo conocimientos básicos de React para entender el frontend.
