@@ -12,7 +12,7 @@ Soy Backend Developer Junior enfocado en construir bases sólidas y seguir creci
 
 ## 🧠 Conocimientos
 - Desarrollo de APIs REST
-- Manejo básico de bases de datos relacionales y no relacionales
+- Manejo de bases de datos relacionales y no relacionales
 - Estructura de backend (routes, controllers, services, etc.)
 
 ## 📚 Actualmente
