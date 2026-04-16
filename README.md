@@ -1,24 +1,53 @@
-# Hola 👋
+# 👋 Hola, soy Sebastián
 
-Soy Backend Developer Junior enfocado en construir bases sólidas y seguir creciendo día a día.
+Backend Developer Junior enfocado en construir software con bases sólidas, entendiendo el *por qué* detrás de cada decisión técnica.
+
+---
 
 ## 🚀 Tecnologías
-- Node.js
-- Express
-- JavaScript
-- TypeScript
-- PostgreSQL
-- MongoDB
 
-## 🧠 Conocimientos
-- Desarrollo de APIs REST
-- Manejo de bases de datos relacionales y no relacionales
-- Estructura de backend (routes, controllers, services, etc.)
+* Node.js
+* Express
+* JavaScript
+* TypeScript
+* PostgreSQL
+* MongoDB
 
-## 📚 Actualmente
-- Aprendiendo Java en la facultad
-- Mejorando mis bases en backend y bases de datos
-- Explorando buenas prácticas y arquitectura
+---
+
+## 🧠 Enfoque y conocimientos
+
+* Desarrollo de APIs REST
+* Diseño de backend por capas (controllers, services, repositories)
+* Manejo de bases de datos relacionales y no relacionales
+* Validación de datos y manejo de errores
+* Autenticación y autorización (JWT, roles)
+
+---
+
+## ⚙️ Actualmente trabajando en
+
+* Implementaciones más profesionales de backend (arquitectura limpia, separación de responsabilidades)
+* Uso de IA dentro del IDE (workspace + enfoque estructurado) para mejorar diseño y calidad del código
+* Profundización en buenas prácticas (SOLID, modularidad, escalabilidad)
+
+---
+
+## 📚 Aprendiendo
+
+* Java (facultad)
+* Arquitectura de software
+* Patrones de diseño aplicados a backend
+* Event-driven architecture
+
+---
 
 ## 🌱 Extra
-También tengo conocimientos básicos de React para entender el frontend.
+
+* Conocimientos básicos de React (para comprender el flujo completo frontend-backend)
+
+---
+
+## 🎯 Objetivo
+
+Seguir creciendo como backend developer, construyendo sistemas cada vez más robustos, escalables y bien diseñados.
