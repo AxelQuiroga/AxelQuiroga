@@ -1,6 +1,6 @@
 # 👋 Hola, soy Sebastián
 
-Backend Developer Junior enfocado en construir software con bases sólidas, entendiendo el *por qué* detrás de cada decisión técnica.
+FullStack Developer Junior IA Native enfocado en construir software con bases sólidas, entendiendo el *por qué* detrás de cada decisión técnica.
 
 ---
 
