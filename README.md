@@ -78,7 +78,6 @@ Incluye:
 
 > Proyecto desarrollado principalmente para profundizar en los fundamentos internos de Node.js y el procesamiento eficiente de archivos.
 
-Ver proyecto →
 ---
 
 🌐 Red Social — Backend
@@ -105,7 +104,6 @@ Tests unitarios y de integración
 
 Proyecto desarrollado para profundizar en arquitectura backend, desacoplamiento, testing y diseño de sistemas mantenibles.
 
-Ver proyecto →
 ---
 
 ## 📚 Actualmente aprendiendo
