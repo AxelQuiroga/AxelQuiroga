@@ -9,26 +9,26 @@ Mi stack principal está alrededor del ecosistema **Node.js + TypeScript**, espe
 ---
 
 ## 🚀 Stack principal
-
 ### Backend
 
-* **Node.js**
-* **TypeScript**
-* **JavaScript**
-* **Express**
-* **Fastify**
-* **APIs REST**
-* Arquitectura por capas
-* Separación de responsabilidades
-* Manejo de errores y validación
-* Autenticación y autorización
-* JWT y roles
-* Testing
+**Runtime & Frameworks**
+`Node.js` · `TypeScript` · `JavaScript` · `Express` · `Fastify`
 
-### Bases de datos
+**API Development**
+`REST` · Authentication & Authorization · JWT · Validation · Error Handling
 
-* **PostgreSQL**
-* **MongoDB**
+**Architecture & Design**
+Clean Architecture · Layered Architecture · Dependency Injection  
+Repository Pattern · Use Cases · DTOs · Mappers · SOLID
+
+**Data & Persistence**
+PostgreSQL · MongoDB · Prisma · Repository Pattern
+
+**Testing**
+Unit Testing · Integration Testing · Vitest · Mocks · Real Database Testing
+
+**Distributed Systems**
+Event-Driven Architecture · Event Bus · RabbitMQ
 
 ### También trabajo con
 
