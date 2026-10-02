@@ -4,7 +4,7 @@
 
 📍 Buenos Aires, Argentina
 📧 [sebastian.a.quiroga@outlook.com.ar](mailto:sebastian.a.quiroga@outlook.com.ar)
-💼 [LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-quiroga-a273611a/)
+💼 [LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-quiroga-a273611a9/)
 🐙 [GitHub](https://github.com/AxelQuiroga)
 
 I'm a **Programming Technician and UTN Programming student** focused on backend development and software engineering.
