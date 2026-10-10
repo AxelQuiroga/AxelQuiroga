@@ -1,99 +1,149 @@
-# Hi, I'm Sebastián Axel Quiroga 👋
+# Sebastián Axel Quiroga 👋
 
-**Backend-focused Developer · Node.js · TypeScript · Fullstack**
+### Backend Developer · Software Engineering · AI-assisted Development
 
 📍 Buenos Aires, Argentina
-📧 [sebastian.a.quiroga@outlook.com.ar](mailto:sebastian.a.quiroga@outlook.com.ar)
-💼 [LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-quiroga-a273611a9/)
-🐙 [GitHub](https://github.com/AxelQuiroga)
 
-I'm a **Programming Technician and UTN Programming student** focused on backend development and software engineering.
+[LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-quiroga-a273611a9/) · [Email](mailto:sebastian.a.quiroga@outlook.com.ar) · [GitHub](https://github.com/AxelQuiroga)
 
-My strongest area is **Node.js + TypeScript**, working with REST APIs, databases, authentication, business logic, testing and maintainable architectures.
+I'm a **Programming Technician and UTN Programming student**, focused on backend development and building reliable, maintainable software.
 
-I'm also expanding toward **fullstack development with React and Angular**, while exploring Java/Spring, DevOps, distributed systems and AI-powered applications.
+My main stack is **Node.js + TypeScript**, with experience building REST APIs, working with relational and NoSQL databases, implementing business rules, authentication, authorization and automated testing.
+
+I enjoy understanding how things work under the hood, exploring software architecture and turning requirements into working applications. I also use AI as a development tool to explore codebases, investigate problems and improve my workflow — while validating solutions through tests, code review and execution.
 
 ---
 
-## 🧠 What I Work With
+## 🧭 Engineering Mindset
 
-**Backend**
-Node.js · TypeScript · JavaScript · Express · Fastify · REST APIs · Socket.IO · JWT · Zod
+- **AI-assisted development:** using AI to explore implementations, investigate bugs, review alternatives and identify edge cases.
+- **Testing & quality:** unit, integration and end-to-end testing, regression prevention and automated quality checks.
+- **Software architecture:** SOLID, separation of concerns, dependency injection and layered or hexagonal architectures where appropriate.
+- **Backend engineering:** REST APIs, authentication, authorization, data consistency and business rules.
+- **Continuous learning:** building projects, studying fundamentals and exploring new tools through practical experimentation.
 
-**Frontend**
-React · Angular · TypeScript · Vite · Tailwind CSS · RxJS
-
-**Databases**
-PostgreSQL · MongoDB · SQLite · Prisma · Drizzle · TypeORM
-
-**Architecture & Engineering**
-Clean Architecture · Hexagonal Architecture · SOLID · Dependency Injection · Repository Pattern · Testing · Event-driven systems
-
-**Infrastructure**
-Docker · Docker Compose · GitHub Actions · CI/CD · Redis · RabbitMQ · Background Workers
-
-**Also exploring**
-Java · Spring Boot · Python · RAG · LangChain · Ollama
+> AI can accelerate development. Understanding the code and verifying its behavior remain essential.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌐 RedSocial Backend
+### 📦 [Inventory Management System](https://github.com/AxelQuiroga/inventory-backend)
 
-**Node.js · TypeScript · PostgreSQL · Prisma · RabbitMQ · S3**
+**[Backend](https://github.com/AxelQuiroga/inventory-backend) · [Frontend](https://github.com/AxelQuiroga/inventory-frontend)**
 
-Backend project focused on Clean Architecture, dependency injection, repositories, authentication, validation, file processing, event-driven communication and testing.
+`Node.js` `TypeScript` `Fastify` `React` `PostgreSQL` `Drizzle` `Vitest` `Playwright`
 
-→ `AxelQuiroga/RedSocial_backend`
+A full-stack inventory management application built around business rules, stock traceability and role-based access control.
 
-### 📦 Inventory Backend
+- Layered backend architecture with domain, application and infrastructure boundaries.
+- Stock entries and exits with historical traceability and consistency rules.
+- JWT authentication and role-based authorization (RBAC).
+- Frontend testing with Vitest, Testing Library, MSW and Playwright.
+- Public, read-only demo designed to showcase the application.
 
-**TypeScript · Fastify · PostgreSQL · Drizzle · Zod**
+**Focus:** business logic, maintainability, automated testing and end-to-end development.
 
-Inventory system focused on business rules, stock movements, RBAC, validation, transactions, JWT authentication and soft deletion.
+### 🏢 [Minimalist ERP](https://github.com/AxelQuiroga/erp-minimalista)
 
-→ `AxelQuiroga/inventory-backend`
+**[Backend](https://github.com/AxelQuiroga/erp-minimalista) · [Frontend](https://github.com/AxelQuiroga/erp-minimalista-frontend)**
 
-### 🏢 Minimalist ERP
+`Java` `Spring Boot` `PostgreSQL` `Angular` `TypeScript`
 
-**Java · Spring Boot · PostgreSQL · Angular · TypeScript**
+A full-stack ERP for managing products, customers, sales and inventory.
 
-Fullstack ERP for products, customers, sales and inventory. Backend designed around **Hexagonal Architecture**, with Angular on the frontend.
+- Backend organized around Hexagonal Architecture.
+- Relational persistence with PostgreSQL.
+- Frontend developed with Angular.
+- Business workflows connecting sales, customers and stock.
 
-→ `AxelQuiroga/erp-minimalista`
-→ `AxelQuiroga/erp-minimalista-frontend`
+**Focus:** full-stack development and architectural concepts across different ecosystems.
 
-### 📡 Uptime Monitor
+### ⚙️ [Mini HTTP Server](https://github.com/AxelQuiroga/mini-http-server-with-only-nodejs)
 
-**Python · Flask · Redis · RQ · TimescaleDB · Docker**
+`Node.js` `TypeScript` `Native HTTP` `Streams`
 
-Distributed monitoring system with scheduled health checks, background workers, alerts, status pages and CI/CD.
+A web server built using Node.js native modules, without relying on Express or Fastify.
 
-→ `AxelQuiroga/uptime-monitor-app`
+- Exploring HTTP fundamentals and manual routing.
+- Separating request handling and application responsibilities.
+- Learning how streams and lower-level web abstractions work.
 
-### 🎮 Code Typist Arcade
+**Focus:** understanding the fundamentals behind backend frameworks.
 
-**React · TypeScript · Vite · Tailwind · HTML5 Canvas**
+### 🧠 [DocMind](https://github.com/AxelQuiroga/docmind)
 
-Programming typing game focused on frontend architecture, game loops, `requestAnimationFrame`, performance and API integration.
+`Python` `Ollama` `LangChain` `ChromaDB` `RAG`
 
-→ `AxelQuiroga/typing-game-pro-frontend`
+An experimental Retrieval-Augmented Generation (RAG) project for querying documents using natural language.
 
-### ⚙️ Mini HTTP Server
+- Local language models through Ollama.
+- Embeddings and vector-based document retrieval.
+- Document-grounded answers as the core concept.
 
-**Node.js · Native HTTP · Streams**
+**Focus:** exploring AI applications beyond conventional API development.
 
-A web server built without Express to understand HTTP, routing, streams and the fundamentals behind Node.js web frameworks.
+### 🔗 [URL Shortener API](https://github.com/AxelQuiroga/API-de-acortador-de-URLs)
 
-→ `AxelQuiroga/mini-http-server-with-only-nodejs`
+`Node.js` `Express 5` `MongoDB` `Mongoose` `Zod`
+
+A URL shortener with expiration, visit tracking, input validation, rate limiting and structured error handling.
+
+**Focus:** API design, security considerations and maintainable backend code.
+
+### 🎮 [Code Typist Arcade](https://github.com/AxelQuiroga/typing-game-pro-frontend)
+
+`React` `TypeScript` `Vite` `Tailwind CSS` `Canvas`
+
+A programming typing game exploring interactive UI development, game loops, browser rendering and API integration.
+
+**Focus:** frontend engineering, performance and interactive applications.
 
 ---
 
-## 📚 Currently
+## 🛠️ Tech Stack
 
-I'm currently focused on improving my **React/frontend skills** while continuing to deepen my backend knowledge.
+**Backend**  
+Node.js · TypeScript · JavaScript · Express · Fastify · REST APIs · Socket.IO · JWT · Zod
 
-I'm especially interested in **software architecture, distributed systems, DevOps, testing and building complete applications**.
+**Frontend**  
+React · Angular · TypeScript · Vite · Tailwind CSS
 
-> Build it. Understand it. Improve it.
+**Databases & Data Access**  
+PostgreSQL · MongoDB · SQLite · Prisma · Drizzle ORM · TypeORM
+
+**Testing & Code Quality**  
+Vitest · Testing Library · MSW · Playwright · Node.js test runner · Linting · TypeScript type checking
+
+**Architecture & Engineering**  
+SOLID · Layered Architecture · Clean Architecture · Hexagonal Architecture · Dependency Injection · Repository Pattern
+
+**Infrastructure & Tooling**  
+Git · GitHub Actions · CI/CD · Docker · Docker Compose · Redis · RabbitMQ
+
+**AI & Exploration**  
+LLMs · RAG · Embeddings · LangChain · Ollama · AI-assisted development
+
+**Also working with**  
+Java · Spring Boot · Python
+
+---
+
+## 🌱 Currently Exploring
+
+- **Hono + TypeScript:** lightweight APIs, framework internals and opportunities to contribute to open source.
+- **AI-assisted engineering:** improving how I investigate code, design tests and validate AI-generated suggestions.
+- **Test-driven development:** strengthening the Red → Green → Refactor workflow.
+- **Software engineering:** deepening my understanding of architecture, testing strategies and maintainability.
+
+---
+
+## 📫 Let's Connect
+
+I'm interested in junior backend and software development opportunities where I can contribute, learn from experienced developers and keep improving my engineering skills.
+
+[LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-quiroga-a273611a9/) · [Email](mailto:sebastian.a.quiroga@outlook.com.ar)
+
+---
+
+*Build it. Understand it. Test it. Improve it.*
